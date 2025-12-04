@@ -13,5 +13,10 @@ This TypeScript program finds the length of the **longest substring without repe
 ## Installation
 Make sure you have [Node.js](https://nodejs.org/) and `ts-node` installed.
 
+1. Clone the repository:
+
 ```bash
-npm install -g ts-node typescript
+git clone <your-repo-url>
+cd <your-repo-folder>
+ #npm install
+ #npx ts-node index.ts
